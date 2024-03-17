@@ -1,0 +1,14 @@
+{
+  "name": "@maivanquynh194/daonguyen223",
+  "version": "1.0.1",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@maivanquynh194",
+  "repository": "https://github.com/sdsfsadads/tea.git",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "http-server": "^14.1.1",
+    "lodash": "^4.17.21",
+    "sass-loader": "^14.1.1"
+  }
+}
